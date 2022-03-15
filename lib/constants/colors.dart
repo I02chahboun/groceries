@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const Color green = Color(0xff53B175);
+const Color white = Color(0xffFFFFFF);
+const Color white20 = Color(0xffFCFCFC);
+const Color grey = Color(0xff030303);
+const Color grey01 = Color(0xff828282);
+const Color hex = Color(0xff5383EC);
+const Color grey02 = Color(0xff4C4F4D);
+const Color grey03 = Color(0xffF2F3F2);
+const Color grey04 = Color(0xff7C7C7C);
+const Color gradient01 = Color(0xffF2F3F2);
+const Color black = Color(0xff181725);
+const Color orange = Color(0xffF8A44C);
+const Color pulsescolor = Color(0xff3E423F);
+const Color shadaw = Color(0xff344356);
+const Color white01 = Color(0xffE5E5E5);
+const Color mois = Color(0xffB3B3B3);
+const Color border = Color(0xffE2E2E2);
+const Color bordercolor = Color(0xffB1B1B1);
+const Color green20 = Color(0xff489E67);
+const Color ioscolor = Color(0xff212121);
+const Color meat = Color(0xffF7A593);
+const Color bakery = Color(0xffD3B0E0);
+const Color dairy = Color(0xffFDE598);
+const Color beve = Color(0xffB7DFF5);
+const Color pleasecolor = Color(0xffFFF9FF);
+const Color flowcolor = Color(0xffFEFEFE);
